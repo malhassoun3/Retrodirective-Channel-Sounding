@@ -1,4 +1,4 @@
-# Retrodirective-Channel-Sounding
+# Retrodirective-Channel Sounding Data
 
 This repository contains the data obtained from channel sounding experiments. This repository is comming soon!
 
